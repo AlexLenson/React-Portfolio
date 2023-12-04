@@ -12,6 +12,21 @@ header{
   height:20vh;
   padding: 10px;
 }
+
+.about{
+  height:80vh;
+}
+
+.about img{
+  width:10vw;
+  height:10vw;
+  border-radius: 50%;
+  border:2px black double;
+  margin-right: 3vw;
+}
+.about p{
+  width:60vw;
+}
 footer{
   background-color: aqua;
 }

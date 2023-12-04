@@ -1,17 +1,19 @@
 import Header from "./components/Header"
 import Nav from "./components/Nav"
 import Footer from "./components/Footer"
+import About from "./components/About"
 
 
 
 function App() {
-  
+
 
   return (
     <>
-    <Header/>
+      <Header />
       <Nav />
-      <Footer/>
+      <About />
+      <Footer />
     </>
   )
 }
