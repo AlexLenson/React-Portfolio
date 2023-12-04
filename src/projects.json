@@ -1,8 +1,37 @@
 [
     {
-        "title":"Horiseon",
-        "image":"",
-        "link":"",
-        "repoLink":""
+        "title":"VibeTogether",
+        "image":"/assets/vibetogether.png",
+        "link":"https://oprokopieva382.github.io/vibeTogether/",
+        "repoLink":"https://github.com/oprokopieva382/vibeTogether"
+    },
+    {
+        "title": "PetConnect",
+        "image": "/assets/petconnect.png",
+        "link": "https://pet-connect-1eeb45c85753.herokuapp.com/",
+        "repoLink": "https://github.com/AlexLenson/PetConnect"
+    },
+    {
+        "title": "Tech-Blog",
+        "image": "/assets/techblog.png",
+        "link": "https://fierce-forest-72948-0ca009035fd9.herokuapp.com/",
+        "repoLink": "https://github.com/AlexLenson/Tech-Blog-v2"
+    },
+    {
+        "title": "Note-Taker",
+        "image": "/assets/notetaker.png",
+        "link": "https://enigmatic-forest-51607-d640dbdac91e.herokuapp.com/",
+        "repoLink": "https://github.com/AlexLenson/Note-Taker"
+    },
+    {
+        "title": "Social-Network-API",
+        "image": "/assets/socialnetworkapi.png",
+        "repoLink": "https://github.com/AlexLenson/Social-Network-API"
+    },
+    {
+        "title": "Text-Editor",
+        "image": "/assets/texteditor.png",
+        "link": "https://pacific-waters-02803-fe3b2d52492d.herokuapp.com/",
+        "repoLink": "https://github.com/AlexLenson/Text-Editor"
     }
 ]

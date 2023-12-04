@@ -1,5 +1,7 @@
 
 function Project(props){
+    return (
+
     <div className="card">
         <img src={props.image} alt="" />
         <div className="card-body">
@@ -8,6 +10,8 @@ function Project(props){
             <a href={props.repoLink}>Github Repo</a>
         </div>
     </div>
+    
+    )
 }
 
 export default Project
