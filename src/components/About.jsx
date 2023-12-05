@@ -1,4 +1,5 @@
-import profile_pic from '../assets/bootcamp_profile_picture.jpg'
+// import profile_pic from '../assets/bootcamp_profile_picture.jpg'
+import profile_pic from '../assets/bowtie-cat.png'
 function About(){
     return(
         <div className='about card'>
