@@ -3,7 +3,8 @@
 function Footer () {
     return(
     <footer>
-        <h1>Footer</h1>
+        <p>Add GitHub Link</p>
+        <p>Add LinkedIn Link</p>
     </footer>
     )
 }
