@@ -5,7 +5,7 @@ import Project from './Project';
 
 function Portfolio() {
     return (
-        <div className="portfolio">
+        <div className="portfolio row d-flex justify-content-center flex-wrap gap-3">
             {projectData.map((project, index) => (
                 <Project
                     key={index}

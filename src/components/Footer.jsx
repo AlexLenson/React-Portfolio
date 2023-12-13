@@ -2,7 +2,7 @@
 
 function Footer () {
     return(
-    <footer>
+    <footer className="sticky-bottom">
         <p>Add GitHub Link</p>
         <p>Add LinkedIn Link</p>
     </footer>

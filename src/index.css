@@ -13,8 +13,11 @@ header{
   padding: 10px;
 }
 
-.about{
-  height:80vh;
+main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
 }
 
 .about img{
@@ -27,6 +30,13 @@ header{
 .about p{
   width:60vw;
 }
+
+.contact-section {
+  width: 80vw;
+}
+
 footer{
   background-color: aqua;
+  padding: 5px;
 }
+
