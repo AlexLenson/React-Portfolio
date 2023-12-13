@@ -6,12 +6,16 @@ function Project(props){
             <img src={props.image} alt="" style={{ width: "29vw", height: "29vh" }} />
         <div className="card-body">
             <h3>{props.title}</h3>
-            <div>
-                <a href={props.link}>Deployed Link</a>
-            </div>
-            <div>
-                <a href={props.repoLink}>Github Repo</a>
-            </div>
+                {props.link && (
+                    <div>
+                        <a href={props.link}>Deployed Link</a>
+                    </div>
+                )}
+                {props.repoLink && (
+                    <div>
+                        <a href={props.repoLink}>Github Repo</a>
+                    </div>
+                )}
         </div>
     </div>
     
