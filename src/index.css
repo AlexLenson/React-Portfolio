@@ -16,13 +16,10 @@ header{
 ul .nav-link:hover {
   /* color: #b8ccd2; */
   font-weight: bold;
-  
-}
-
-.navbar-nav .nav-item .nav-link:hover {
   background-color: #9be5e5;
   transition: background-color 2s ease;
   border-radius: 15px;
+  
 }
 
 main{
