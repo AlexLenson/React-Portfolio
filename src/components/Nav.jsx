@@ -16,18 +16,18 @@ function Nav() {
                     <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="collapse navbar-collapse justify-content-center" id="navbarNavDropdown">
-                    <ul className="navbar-nav gap-2">
+                    <ul className="navbar-nav gap-4">
                         <li className="nav-item">
-                            <Link className="nav-link" to="/about">About Me</Link>
+                            <Link className="nav-link fs-5" to="/about">About Me</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/portfolio">Portfolio</Link>
+                            <Link className="nav-link fs-5" to="/portfolio">Portfolio</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/contact">Contact</Link>
+                            <Link className="nav-link fs-5" to="/contact">Contact</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/resume">Resume</Link>
+                            <Link className="nav-link fs-5" to="/resume">Resume</Link>
                         </li>
                     </ul>
                 </div>
