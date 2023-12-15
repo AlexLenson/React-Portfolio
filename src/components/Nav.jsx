@@ -15,8 +15,8 @@ function Nav() {
                 >
                     <span className="navbar-toggler-icon"></span>
                 </button>
-                <div className="collapse navbar-collapse" id="navbarNavDropdown">
-                    <ul className="navbar-nav">
+                <div className="collapse navbar-collapse justify-content-center" id="navbarNavDropdown">
+                    <ul className="navbar-nav gap-2">
                         <li className="nav-item">
                             <Link className="nav-link" to="/about">About Me</Link>
                         </li>

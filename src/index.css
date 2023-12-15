@@ -15,9 +15,12 @@ header{
 
 main{
   display: flex;
-  align-items: center;
   justify-content: center;
   height: 90vh;
+}
+
+.about{
+  max-height:30vh;
 }
 
 .about img{
@@ -32,11 +35,15 @@ main{
 }
 
 .contact-section {
+  
   width: 80vw;
+}
+.about, .portfolio, .contact-section{
+  margin-top: 5vh;
 }
 
 footer{
-  background-color: aqua;
+  background-color: #b8ccd2;
   padding: 5px;
 }
 
