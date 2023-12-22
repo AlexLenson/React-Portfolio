@@ -6,11 +6,13 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "start": "serve dist -l 5173",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "render-build": "npm install && npm run build"
   },
   "dependencies": {
+    "serve": "^12.0.2",
     "bootstrap": "^5.3.2",
     "emailjs": "^4.0.3",
     "emailjs-com": "^3.2.0",
